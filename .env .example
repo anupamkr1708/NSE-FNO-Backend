@@ -1,0 +1,5 @@
+DATABASE_URL=postgres_database_url
+SMARTAPI_KEY=Secret_key
+SMARTAPI_CLIENT_ID=Your_smart_api_client_id
+SMARTAPI_PIN=Your_SMARTAPI_PIN
+SMARTAPI_TOTP_SECRET= Your_smart_api_TOTP_Secret
